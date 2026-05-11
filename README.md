@@ -52,7 +52,8 @@ print(classification_report(y_test, y_pred, target_names=iris.target_names))
 ```
 
 ## Output:
-![prediction of iris species using SGD Classifier](sam.png)
+<img width="724" height="280" alt="image" src="https://github.com/user-attachments/assets/5e11ff9b-c823-4d6d-a4f4-0d8b1def2831" />
+
 
 
 ## Result:
